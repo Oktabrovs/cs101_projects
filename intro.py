@@ -1,0 +1,1 @@
+print("Oktyabrov Umrbek\nArtificial Intelligence\nAstornomy")
